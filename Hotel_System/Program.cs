@@ -11,7 +11,8 @@ namespace Hotel_System
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Bienvenido al Sistema");
+            //Console.WriteLine("Bienvenido al Sistema");   
+            
         }
     }
 }
