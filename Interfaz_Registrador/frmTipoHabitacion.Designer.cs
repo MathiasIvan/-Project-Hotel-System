@@ -129,7 +129,7 @@
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(101, 46);
             this.btnCancelar.TabIndex = 8;
-            this.btnCancelar.Text = "ACEPTAR";
+            this.btnCancelar.Text = "CANCELAR";
             this.btnCancelar.UseVisualStyleBackColor = true;
             // 
             // frmTipoHabitacion
